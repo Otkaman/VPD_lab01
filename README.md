@@ -62,3 +62,15 @@ Student ID: М3О-110БВ-26/21 | Language: C | Control: 6384
 - Язык ассемблера: x86-64, синтаксис Intel
 - Toolchain: GNU as + gcc 
 - Сборка и запуск: `as assembler.s -o assembler.o && gcc assembler.o -o assembler && ./assembler`
+
+## Merge conflict
+
+Конфликт создан намеренно в строке `Status` файла `README.md`: в `dev` и в `second_dev` она изменена по-разному, затем выполнен `git pull --no-rebase`
+
+До разрешения (маркеры `<<<<<<<`, `=======`, `>>>>>>>`):
+
+![Конфликт до разрешения](docs/conflictBeforeSolving.jpg)
+
+После разрешения (оставлена одна итоговая строка):
+
+![Конфликт после разрешения](docs/conflictAfterSolving.jpg)
