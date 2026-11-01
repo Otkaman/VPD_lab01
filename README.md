@@ -27,8 +27,6 @@
 
 ## Инструменты и команды
 
-Версии заполнить по выводу `bash versions.sh`
-
 | Язык | Версия инструмента | Команда сборки/запуска |
 |---|---|---|
 | C | gcc | `gcc -Wall -Wextra -pedantic c.c -o c && ./c` |
@@ -44,8 +42,6 @@
 | Bash | bash | `bash main.sh` |
 | Prolog | swipl | `swipl -q -s main.pl -g main -t halt` |
 | Assembler | as | `as assembler.s -o assembler.o && gcc assembler.o -o assembler && ./assembler` |
-
-Запустить всё сразу: `bash run_all.sh`.
 
 ## Пример ожидаемого вывода
 
