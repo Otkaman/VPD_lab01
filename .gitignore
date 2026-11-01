@@ -1,0 +1,29 @@
+# C/C++/Rust/asm: объектные файлы и бинарники (получаются компилятором)
+*.o
+/c/c
+/cpp/c++
+/rust/main
+/asm/assembler
+
+# Java: байт-код (получается из javac)
+*.class
+
+# .NET: папки сборки (создаёт dotnet build/run)
+bin/
+obj/
+
+# TypeScript: скомпилированный JS и зависимости Node
+/typescript/dist/
+node_modules/
+
+# Rust (Cargo): каталог сборки
+target/
+
+# Python: кэш байт-кода
+__pycache__/
+*.pyc
+
+# Временные файлы редактора и ОС
+*.swp
+*~
+.DS_Store
