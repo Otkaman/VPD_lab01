@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tTgXWEiCTOg=",
+  "success": true,
+  "projectFilePath": "/home/otkaman/VPD_lab01/fsharp/fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/home/otkaman/.nuget/packages/fsharp.core/10.0.113/fsharp.core.10.0.113.nupkg.sha512",
+    "/home/otkaman/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
