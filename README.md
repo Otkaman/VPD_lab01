@@ -31,19 +31,19 @@
 
 | Язык | Версия инструмента | Команда сборки/запуска |
 |---|---|---|
-| C | gcc ? | `gcc -Wall -Wextra -pedantic c.c -o c && ./c` |
-| C++ | g++ ? | `g++ -Wall -Wextra -pedantic c++.cpp -o c++ && ./c++` |
-| Python | ? | `python3 main.py` |
-| JavaScript | node ? | `node js.js` |
-| TypeScript | tsc ? | `tsc ts.ts --outDir dist && node dist/ts.js` |
-| Java | javac ? | `javac -encoding UTF-8 Main.java && java Main` |
-| C# | dotnet ? | `dotnet run` |
-| F# | dotnet ? | `dotnet run` |
-| Go | go ? | `go run main.go` |
-| Rust | rustc ? | `rustc main.rs -o main && ./main` |
-| Bash | bash ? | `bash main.sh` |
-| Prolog | swipl ? | `swipl -q -s main.pl -g main -t halt` |
-| Assembler | as ? | `as assembler.s -o assembler.o && gcc assembler.o -o assembler && ./assembler` |
+| C | gcc | `gcc -Wall -Wextra -pedantic c.c -o c && ./c` |
+| C++ | g++ | `g++ -Wall -Wextra -pedantic c++.cpp -o c++ && ./c++` |
+| Python | python3 | `python3 main.py` |
+| JavaScript | node | `node js.js` |
+| TypeScript | tsc | `tsc ts.ts --outDir dist && node dist/ts.js` |
+| Java | javac | `javac -encoding UTF-8 Main.java && java Main` |
+| C# | dotnet | `dotnet run` |
+| F# | dotnet | `dotnet run` |
+| Go | go | `go run main.go` |
+| Rust | rustc | `rustc main.rs -o main && ./main` |
+| Bash | bash | `bash main.sh` |
+| Prolog | swipl | `swipl -q -s main.pl -g main -t halt` |
+| Assembler | as | `as assembler.s -o assembler.o && gcc assembler.o -o assembler && ./assembler` |
 
 Запустить всё сразу: `bash run_all.sh`.
 
