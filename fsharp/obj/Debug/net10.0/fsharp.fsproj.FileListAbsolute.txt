@@ -2,6 +2,7 @@
 /home/otkaman/VPD_lab01/fsharp/obj/Debug/net10.0/fsharp.AssemblyInfoInputs.cache
 /home/otkaman/VPD_lab01/fsharp/obj/Debug/net10.0/fsharp.AssemblyInfo.fs
 /home/otkaman/VPD_lab01/fsharp/obj/Debug/net10.0/fsharp.fsproj.CoreCompileInputs.cache
+/home/otkaman/VPD_lab01/fsharp/obj/Debug/net10.0/fsharp.sourcelink.json
 /home/otkaman/VPD_lab01/fsharp/bin/Debug/net10.0/fsharp
 /home/otkaman/VPD_lab01/fsharp/bin/Debug/net10.0/fsharp.deps.json
 /home/otkaman/VPD_lab01/fsharp/bin/Debug/net10.0/fsharp.runtimeconfig.json
