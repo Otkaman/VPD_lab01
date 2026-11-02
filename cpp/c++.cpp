@@ -16,7 +16,7 @@ int main() {
     const std::string group_name = "М3О-110БВк-26";
     const std::string language_name = "C++";
 
-    const int control_value = 304 * student_number;
+    const int control_value = 308 * student_number;
 
     std::cout << "Hello to 304 from " << student_name_en << ", number " << student_number
               << ", group " << group_name << "!\n";
